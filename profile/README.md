@@ -1,3 +1,3 @@
-# [Hard Science](home)
+# [Hard Science][home]
 
 [home]: https://hardscience.games
